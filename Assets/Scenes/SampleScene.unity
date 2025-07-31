@@ -661,7 +661,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialougeText: {fileID: 198486950}
   dialouge:
-  - Hello
+  - Hello there!
   - How are you doing today?
   - Goodbye
 --- !u!4 &818041605
